@@ -24,6 +24,6 @@ Prerequisites: a C++ compiler (MSVC, GCC, or Clang). Use a Developer Command Pro
   1. Open "Developer Command Prompt for VS".
   2. Run:
 
-     `cl /std:c++14 /EHa /clr CompilerBug.cpp`
+     `cl /EHa /clr CompilerBug.cpp`
 
   Note: behavior depends on MSVC version; newer MSVC releases may have fixed the issue.
