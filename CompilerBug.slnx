@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CompilerBug.vcxproj" Id="4a053ba6-23ab-457e-9637-493d03bf606c" />
+</Solution>
